@@ -5,5 +5,3 @@
 ### Lecture 2
 [Mini-Project 1 - Tic Tac Toe](./tic_tac_toe.ipynb)  [(ans)](./tic_tac_toe_ans.ipynb)  
 [Mini-Project 2 - Image Processing](./image_processing.ipynb)  [(ans)](./image_processing_ans.ipynb). 
-### Lecture 3
-[Python Packages](./Packages.ipynb)  
